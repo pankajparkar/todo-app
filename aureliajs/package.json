@@ -1,0 +1,11 @@
+{
+  "name": "aureliajs",
+  "version": "1.0.0",
+  "description": "AureliaJS todo application",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "author": "Pankaj Parkar",
+  "license": "MIT"
+}

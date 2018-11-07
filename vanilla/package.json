@@ -1,0 +1,12 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "Vanilla JS todo application",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "author": "Pankaj Parkar",
+  "license": "MIT"
+}

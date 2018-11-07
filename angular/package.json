@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Angular todo application",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "author": "Pankaj Parkar",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "ReactJS todo application",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "author": "Pankaj Parkar",
+  "license": "MIT"
+}

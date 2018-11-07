@@ -1,0 +1,11 @@
+{
+  "name": "mithrilljs",
+  "version": "1.0.0",
+  "description": "MithrillJS todo application",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "author": "Pankaj Parkar",
+  "license": "MIT"
+}

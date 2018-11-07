@@ -1,0 +1,11 @@
+{
+  "name": "cyclejs",
+  "version": "1.0.0",
+  "description": "CycleJS todo application",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "author": "Pankaj Parkar",
+  "license": "MIT"
+}
